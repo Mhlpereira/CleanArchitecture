@@ -1,5 +1,5 @@
 # Clean Architecture
-Projeto simples com Clean Architecture e SOLID
+Projeto simples de um CRUD com Clean Architecture e SOLID
 
 ## Tech Stack 
 - NodeJS
